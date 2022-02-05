@@ -7,3 +7,5 @@ Created on Sun Jan 16 19:41:46 2022
 
 print("HelloWorld")
 print("Make me day better")
+import os
+print (os.getcwd())
