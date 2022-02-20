@@ -10,7 +10,7 @@ print("Make me day better")
 import os
 print (os.getcwd())
 print('hiiiiiiiiiiiiiiiiiVijayiiiiiiii')
-print("Ghossssssssssssssssssssssssssssssst")
+print("Ghosssssssssssssssssssssssshoppppssssssst")
 
 import getpass
 import os
